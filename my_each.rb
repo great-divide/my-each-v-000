@@ -1,5 +1,5 @@
 def my_each(array)
   array.do { |n|
-    puts n
+    prints n
   }
 end
