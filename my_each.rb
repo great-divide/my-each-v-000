@@ -5,6 +5,7 @@ def my_each(array)
     array.do { |n|
       yield(n)
     }
+  end
 end
 
 def yielding
