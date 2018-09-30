@@ -8,5 +8,5 @@ def my_each(array)
   end
 end
 
-def yielding
-end
+# def yielding
+# end
