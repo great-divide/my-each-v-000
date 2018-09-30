@@ -3,7 +3,7 @@ def my_each(array)
   while count < array.length
     count += 1
     array.do { |n|
-      yield array[]
+      yield array[count]
     }
   end
 end
